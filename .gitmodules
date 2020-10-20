@@ -1,0 +1,4 @@
+[submodule "subdataset_0"]
+	path = subdataset_0
+	url = ./subdataset_0
+	datalad-id = e4212140-12b2-11eb-ae2b-7cdd908c7490
