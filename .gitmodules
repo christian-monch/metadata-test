@@ -2,3 +2,7 @@
 	path = subdataset_1
 	url = ./subdataset_1
 	datalad-id = f361bf34-12b2-11eb-8951-7cdd908c7490
+[submodule "new_subset"]
+	path = new_subset
+	url = ./new_subset
+	datalad-id = 033f89e0-12b3-11eb-8ce9-7cdd908c7490
